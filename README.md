@@ -1,7 +1,6 @@
-# Project Deprecated - Moved to [New Repository](https://github.com/31b4/Leetcode-Premium-Bypass)
+# Project Deprecated - Check out Alternative projects section for similar projects
 
-This repository is **no longer maintained**. The latest releases and updates are now available in the new repository at https://github.com/31b4/Leetcode-Premium-Bypass.
-#
+This repository is **no longer maintained**. 
 <br />
 <div align="center">
   <a href="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker">
@@ -25,6 +24,9 @@ This repository is **no longer maintained**. The latest releases and updates are
 
 ## Leetcode Premium Unlocker 
 Unlock some leetcode premium features without subscription/login <br>
+
+## Alternative projects/ Active Forks
+[Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) by [@31b4](https://github.com/31b4)
 
 ## Features 
 <li>Display problem frequency</li>
