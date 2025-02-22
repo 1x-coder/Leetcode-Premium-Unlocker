@@ -10,7 +10,7 @@
     "content_scripts": [
         {
           "css": ["dist/style.css"], 
-          "js": ["/dist/main.js"],
+          "js": ["/dist/extensionPopupManager.js"],
           "matches": [
             "https://leetcode.com/*"
           ]
